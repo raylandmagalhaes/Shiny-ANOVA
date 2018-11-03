@@ -1,0 +1,8 @@
+library(shiny)
+library(shinydashboard)
+library(ggplot2)
+library(dplyr)
+library(kableExtra)
+library(xtable)
+library(dae)
+library(ggfortify)
